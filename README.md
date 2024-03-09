@@ -1,10 +1,10 @@
 
-#Shadow goverment WIZARD
+# Shadow goverment WIZARD
 
-##About me1
-###About me 2
+## About me1
+### About me 2
 
-### Languages and Tools 
+
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
