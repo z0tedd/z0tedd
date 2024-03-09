@@ -1,4 +1,4 @@
-# z0tedd
+
 #Shadow goverment WIZARD
 
 ##About me1
