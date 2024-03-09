@@ -6,7 +6,7 @@
  I am data-analytic, ml-engineer and programmer-hobbyist from the land of eternal winter
  
  My main activities:
- 1) Developing tools for data-analys
+ 1) Developing tools for data-analysis
  2) Creating apps for my daily use
  3) Train machine learning models
 
