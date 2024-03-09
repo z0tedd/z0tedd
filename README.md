@@ -19,5 +19,5 @@
 ### My contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=6296CC)](https://t.me/z0tedd)
 [![Youtube](https://img.shields.io/badge/-youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=6296CC)](https://www.youtube.com/channel/UC5I7EbIppnmVFIBTcQN1tQQ)
-[![Discord](https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&logoColor=6296CC)](https://www.youtube.com/channel/UC5I7EbIppnmVFIBTcQN1tQQ)
+[![Discord](https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&logoColor=6296CC)](https://discord.com/users/412613448153956356)
 
